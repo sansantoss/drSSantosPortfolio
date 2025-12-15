@@ -1,0 +1,233 @@
+{
+  "name": "Dr. Santiago Santos Grapain",
+
+  "headerTaglineOne": "Médico Cirujano",
+  "headerTaglineTwo": "Endoscopía Gastrointestinal",
+  "headerTaglineThree": "",
+  "headerTaglineFour": "Juchitán, Oaxaca",
+
+  "heroImage": "/images/avatar.jpeg",
+
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+
+  "appointment": {
+    "label": "Agendar cita",
+    "link": "https://wa.me/525514949320"
+  },
+
+  "socials": [
+    {
+      "id": "1",
+      "title": "Email",
+      "link": "mailto:santisantos87@gmail.com"
+    },
+    {
+      "id": "2",
+      "title": "Teléfono",
+      "link": "tel:+525514949320"
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "1",
+      "title": "Endoscopía Digestiva Alta",
+      "description": "Diagnóstico y tratamiento de patologías del esófago, estómago y duodeno.",
+      "imageSrc": "/images/cirugia.jpg",
+      "url": "#"
+    },
+    {
+      "id": "2",
+      "title": "Colonoscopía",
+      "description": "Detección y tratamiento de enfermedades del colon y recto.",
+      "imageSrc": "/images/cirugia2.jpg",
+      "url": "#"
+    },
+    {
+      "id": "3",
+      "title": "CPRE",
+      "description": "Procedimiento endoscópico para el diagnóstico y tratamiento de enfermedades biliares y pancreáticas.",
+      "imageSrc": "/images/cirugia3.jpg",
+      "url": "#"
+    },
+    {
+      "id": "4",
+      "title": "Cirugía General",
+      "description": "Cirugía del aparato digestivo y pared abdominal.",
+      "imageSrc": "/images/cirugia4.jpg",
+      "url": "#"
+    }
+  ],
+
+  "services": [
+    {
+      "id": "1",
+      "title": "Consulta Médica Especializada",
+      "description": "Valoración integral con enfoque diagnóstico y terapéutico."
+    },
+    {
+      "id": "2",
+      "title": "Procedimientos Endoscópicos",
+      "description": "Endoscopía diagnóstica y terapéutica avanzada."
+    },
+    {
+      "id": "3",
+      "title": "Cirugía General",
+      "description": "Tratamiento quirúrgico del aparato digestivo."
+    },
+    {
+      "id": "4",
+      "title": "Seguimiento Postoperatorio",
+      "description": "Atención médica continua posterior a procedimientos quirúrgicos."
+    },
+    {
+      "id": "5",
+      "title": "Endoscopía Digestiva Alta",
+      "description": "Diagnóstico y tratamiento de patologías del esófago, estómago y duodeno."
+    },
+    {
+      "id": "6",
+      "title": "Colonoscopía",
+      "description": "Detección y tratamiento de enfermedades del colon y recto, incluyendo pólipos y cáncer colorrectal."
+    },
+    {
+      "id": "7",
+      "title": "CPRE (Colangiopancreatografía Retrógrada Endoscópica)",
+      "description": "Procedimiento endoscópico especializado para enfermedades de la vía biliar y páncreas."
+    },
+    {
+      "id": "8",
+      "title": "Manejo de Enfermedades Gastrointestinales",
+      "description": "Diagnóstico y tratamiento de gastritis, úlceras, colitis y otras enfermedades digestivas."
+    },
+    {
+      "id": "9",
+      "title": "Tratamiento Endoscópico de Várices Esofágicas",
+      "description": "Manejo endoscópico de complicaciones asociadas a la hipertensión portal."
+    }
+  ],
+
+  "aboutpara": "Médico cirujano con alta especialidad en Endoscopía Gastrointestinal, con sólida formación académica, certificaciones vigentes y amplia experiencia clínica, quirúrgica y académica.",
+
+  "resume": {
+    "tagline": "Cirujano Endoscopista | Alta Especialidad en Endoscopía Gastrointestinal",
+
+    "description": "Médico cirujano formado en instituciones de alto prestigio nacional, con especialidad en cirugía general y alta especialidad en endoscopía gastrointestinal.",
+
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "2019 - Actualidad",
+        "type": "Práctica Clínica",
+        "position": "Médico de Alta Especialidad en Endoscopía Quirúrgica Gastrointestinal",
+        "bullets": "Endoscopía diagnóstica y terapéutica, CPRE, Cirugía General y atención hospitalaria especializada."
+      }
+    ],
+
+    "education": {
+      "universityName": "Universidad Veracruzana / UNAM",
+      "universityDate": "2005 - 2021",
+      "universityPara": "Médico Cirujano por la Universidad Veracruzana. Especialidad en Cirugía General y Alta Especialidad en Endoscopía Gastrointestinal por la Universidad Nacional Autónoma de México."
+    },
+
+    "languages": ["Español", "Inglés"],
+
+    "frameworks": [
+      "Endoscopía Digestiva",
+      "Endoscopía Terapéutica",
+      "Cirugía General",
+      "CPRE"
+    ],
+
+    "others": [
+      "Cédula profesional Médico Cirujano: 8429723",
+      "Cédula profesional Especialidad Cirugía General: 11585109",
+      "Certificación Consejo Mexicano de Cirugía General (2019)",
+      "Certificación Consejo Mexicano de Gastroenterología (2021)"
+    ]
+  },
+
+  "associations": [
+    {
+      "id": "1",
+      "name": "Asociación Mexicana de Cirugía General",
+      "image": "/images/asomexcir.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Asociación Mexicana de Gastroenterología",
+      "image": "/images/asogasen.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Asociación Mexicana de Endoscopía Gastrointestinal",
+      "image": "/images/ameg.jpeg"
+    }
+  ],
+
+  "medicalTraining": {
+    "internship": {
+      "institution": "Hospital Regional de Coatzacoalcos “Valentín Gómez Farías”",
+      "period": "Enero 2011 - Diciembre 2011",
+      "average": "91.75",
+      "document": "Constancia de terminación del internado médico"
+    },
+    "socialService": {
+      "institution": "IMSS Oportunidades – Unidad Médica Rural El Tesoro",
+      "region": "Región Coatzacoalcos III, Zona IX “Valle de Uxpanapa”",
+      "period": "Febrero 2012 - Enero 2013",
+      "document": "Constancia de realización de servicio social"
+    }
+  },
+
+  "certifications": [
+    {
+      "id": "1",
+      "name": "Consejo Mexicano de Cirugía General, A.C.",
+      "date": "25 de mayo de 2019",
+      "validity": "Vigencia de 5 años"
+    },
+    {
+      "id": "2",
+      "name": "Consejo Mexicano de Gastroenterología, A.C.",
+      "date": "7 de abril de 2021",
+      "number": "3188",
+      "validity": "Vigencia de 5 años"
+    }
+  ],
+
+  "academicActivity": [
+    {
+      "id": "1",
+      "description": "Participación continua en congresos nacionales e internacionales de cirugía general y endoscopía gastrointestinal (2017–2023)."
+    },
+    {
+      "id": "2",
+      "description": "Profesor en el 3er Curso Endoscópico Internacional en Patología Pancreatobiliar, Hospital General Dr. Miguel Silva, Morelia (2023)."
+    }
+  ],
+
+  "publications": [
+    {
+      "id": "1",
+      "title": "Manual AMIR-ENARM de Digestivo y Cirugía General",
+      "year": "2021",
+      "publisher": "Academia AMIR México"
+    }
+  ],
+
+  "currentPosition": {
+    "role": "Médico de Alta Especialidad en Endoscopía Quirúrgica Gastrointestinal",
+    "institution": "Clínica de Endoscopía Quirúrgica Gastrointestinal",
+    "location": "El Espinal, Oaxaca"
+  },
+
+  "continuousEducation": {
+    "program": "Maestría en Administración de Hospitales y Sistemas de Salud",
+    "institution": "Universidad Autónoma de Guadalajara",
+    "mode": "Modelo virtual"
+  }
+}
